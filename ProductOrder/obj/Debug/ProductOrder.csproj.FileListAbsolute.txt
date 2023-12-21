@@ -1,0 +1,16 @@
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\bin\Debug\ProductOrder.exe.config
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\bin\Debug\ProductOrder.exe
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\bin\Debug\ProductOrder.pdb
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.AssemblyReference.cache
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.SuggestedBindingRedirects.cache
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.Form1.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.Product.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.Properties.Resources.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.GenerateResource.cache
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.csproj.CoreCompileInputs.cache
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.exe
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.pdb
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.MyProductOrder.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.OrderDetail.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.Payment.resources
+D:\B SETEC School\Year 2\SEMESTER 2\C# PROGRAMMING III\ProductOrder\ProductOrder\obj\Debug\ProductOrder.Loading.resources
